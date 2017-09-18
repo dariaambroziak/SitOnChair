@@ -9,6 +9,4 @@ A page based on the following layout:
 [Layout] (images / warsztat.jpg)
 
 
-Installation:
-
-Write in a terminal: git clone ........................to clone repository
+https://dariaambroziak.github.io/sit-on-chair.github.io/
