@@ -81,10 +81,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     });
 
-    //--------------------KALKULATOR------------------------//
-
-
-    //----------------rozwinięta lista-----------------------//
+    //----------------ROZWINIĘTA LISTA-----------------------//
 
     var greenArrows = document.querySelectorAll('.list_arrow');
 
@@ -101,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 
-    //------wybieranie elementów z list i przypisanie ich do zmiennych----------//
+    //------WYBIERANIE ELEMENTÓW Z LISTY I PRZYPISANIE ICH DO ZMIENNYCH----------//
 
     var chairType = document.querySelector('#chair_type');
     var title = document.querySelector('.title');
