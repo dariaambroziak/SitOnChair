@@ -10,3 +10,5 @@ A page based on the following layout:
 
 
 https://dariaambroziak.github.io/sit-on-chair.github.io/
+
+<img src="images/warsztat.jpg" alt="Sit On Chair" height="300px" width="100%">
