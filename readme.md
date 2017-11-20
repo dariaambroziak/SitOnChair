@@ -9,6 +9,6 @@ A page based on the following layout:
 [Layout] (images / warsztat.jpg)
 
 
-https://dariaambroziak.github.io/sit-on-chair.github.io/
+https://dariaambroziak.github.io/SitOnChair/
 
 <img src="images/warsztat.jpg" alt="Sit On Chair" height="100%" width="100%">
